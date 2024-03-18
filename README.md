@@ -68,3 +68,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+"# dynamic-subdomain"  git init git add README.md git commit -m "first commit" git branch -M main git remote add origin https://github.com/samuel-874/dynamic-subdomain.git git push -u origin main
+"# dynamic-subdomain" 
